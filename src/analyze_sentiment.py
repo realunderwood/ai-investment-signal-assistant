@@ -1,4 +1,4 @@
-"""调用了3DeepSeek对每条新闻做情绪分类,输出结构化信号(并发+重试版)"""
+"""调用了DeepSeek对每条新闻做情绪分类,输出结构化信号(并发+重试版)"""
 import json
 import os
 import time
